@@ -2,9 +2,9 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Java+Developer+%3A)" /> </h3>
 
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
-- 💬 Ask me about Java, Python
-- 👯 I’m looking to collaborate on Java Projects
+- 🌱 I’m currently learning NodeJs
+- 💬 Ask me about NodeJs, Java, Python 
+- 👯 I’m looking to collaborate on NodeJs, Java Projects
 
 <!---
 NikitaP012/NikitaP012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
